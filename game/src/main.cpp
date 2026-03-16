@@ -252,7 +252,7 @@ int main(int argc, char** argv)
 		{
 			player.x -= 2.0f * deltaTime;
 		}
-
+/*
 		if(cntrl::isKeyPressed('W'))
 		{
 			player.z -= 2.0f * deltaTime;
@@ -262,7 +262,7 @@ int main(int argc, char** argv)
 		{
 			player.z += 2.0f * deltaTime;
 		}
-
+*/
 
 		/*------------------------------*/
 
